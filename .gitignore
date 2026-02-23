@@ -39,3 +39,9 @@ frontend/.vercel
 # typescript
 *.tsbuildinfo
 frontend/next-env.d.ts
+
+# python
+__pycache__/
+*.py[cod]
+backend/venv/
+backend/data/learnout.db
