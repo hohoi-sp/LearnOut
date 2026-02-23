@@ -1,0 +1,4 @@
+fastapi[standard]
+boto3
+openai
+tavily-python
